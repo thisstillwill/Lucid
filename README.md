@@ -1,5 +1,5 @@
 # Lucid
-Files and WebGL hosting for the game Lucid
+Files and WebGL hosting for the game Lucid, created in the Unity game engine
 
 Builds: <br/>
 (Dropbox)
