@@ -1,5 +1,7 @@
 # Lucid
 
+![Lucid Gameplay](LucidAdvertisement.gif)
+
 Files for the game Lucid, created in the Unity game engine. Lucid is a 3D first-person platformer created as part of the [Princeton Summer Programming Experience](https://www.cs.princeton.edu/academics/ugradpgm/spe/home/) during Summer 2020.
 
 ## Builds
