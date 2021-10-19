@@ -11,5 +11,5 @@ Files for the game Lucid, created in the Unity game engine. Lucid is a 3D first-
 
 ## Play Online
 
-* [Github Pages](https://disstillwill.github.io/Lucid/)
-* [itch.io](https://disstillwill.itch.io/lucid)
+* [Github Pages](https://thisstillwill.github.io/Lucid/)
+* [itch.io](https://thisstillwill.itch.io/lucid)
